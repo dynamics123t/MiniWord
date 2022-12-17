@@ -1,0 +1,12 @@
+D:\Hoc Tap\HK7\Lập trình trong windows\Tan_MiniWord\bin\Debug\Tan_MiniWord.exe.config
+D:\Hoc Tap\HK7\Lập trình trong windows\Tan_MiniWord\bin\Debug\Tan_MiniWord.exe
+D:\Hoc Tap\HK7\Lập trình trong windows\Tan_MiniWord\bin\Debug\Tan_MiniWord.pdb
+D:\Hoc Tap\HK7\Lập trình trong windows\Tan_MiniWord\obj\Debug\Tan_MiniWord.csproj.AssemblyReference.cache
+D:\Hoc Tap\HK7\Lập trình trong windows\Tan_MiniWord\obj\Debug\Tan_MiniWord.csproj.SuggestedBindingRedirects.cache
+D:\Hoc Tap\HK7\Lập trình trong windows\Tan_MiniWord\obj\Debug\Tan_MiniWord.Form1.resources
+D:\Hoc Tap\HK7\Lập trình trong windows\Tan_MiniWord\obj\Debug\Tan_MiniWord.Properties.Resources.resources
+D:\Hoc Tap\HK7\Lập trình trong windows\Tan_MiniWord\obj\Debug\Tan_MiniWord.csproj.GenerateResource.cache
+D:\Hoc Tap\HK7\Lập trình trong windows\Tan_MiniWord\obj\Debug\Tan_MiniWord.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\HK7\Lập trình trong windows\Tan_MiniWord\obj\Debug\Tan_MiniWord.exe
+D:\Hoc Tap\HK7\Lập trình trong windows\Tan_MiniWord\obj\Debug\Tan_MiniWord.pdb
+D:\Hoc Tap\HK7\Lập trình trong windows\Tan_MiniWord\obj\Debug\Tan_MiniWord.Form2.resources
